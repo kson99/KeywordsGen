@@ -1,0 +1,8 @@
+### Getting keywords
+POST http://127.0.0.1:8000/extract-keywords
+Content-Type: application/json
+
+{
+    "text": "The only only way way I could find a good job in this industry would have to work in the industry for the first few months or two months and I could get my hands dirty in a couple months time\n\nTo To get my hands clean I \n\nCould get my own place in a \n\nThe Big Bang universe where we \n\nThe Universe can have our best \n\nI’m sure 👍 and the rest are mine to \n\n\n\nDo and the other ones are yours \n\nmembers who have never had to go to the gym and I don’t know what they do about that one I just know they don’t like to be on their feet so they ",
+    "limit": 10
+}
